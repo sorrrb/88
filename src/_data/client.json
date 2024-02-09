@@ -1,15 +1,15 @@
 {
-  "name": "Oak Harbor Web Designs",
-  "email": "hello@oakharbor.com",
-  "phone": "555-779-4407",
-  "phoneFormatted": "(555) 779-4407",
+  "name": "88 Charles Street Restaurant",
+  "email": "contact@88charlesstreet.com",
+  "phone": "845-457-9850",
+  "phoneFormatted": "(845) 457-9850",
   "address": {
-    "lineOne": "First Address Line",
-    "lineTwo": "Second Address Line, If Needed",
-    "city": "Denver",
-    "county": "CO",
-    "postcode": "80206",
-    "mapLink": "https://goo.gl/maps/UAQn4vuGDiwv7DV39"
+    "lineOne": "88 Charles Street",
+    "lineTwo": "",
+    "city": "Montgomery",
+    "county": "NY",
+    "postcode": "12549",
+    "mapLink": "https://goo.gl/maps/Poc69s5DPvE8J56e7"
   },
   "domain": "www.website.com"
 }
