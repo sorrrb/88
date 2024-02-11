@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Ephesis&display=swap');
 /*-- -------------------------- -->
 <---        Core Styles         -->
 <--- -------------------------- -*/
@@ -819,4 +820,20 @@
   body.dark-mode #footer {
     background: #2D2F36;
   }
+}
+
+.logo {
+  display: grid;
+  align-items: center;
+  text-decoration: none;
+}
+
+.test {
+  font-family: 'Ephesis', cursive;
+  font-size: 3rem;
+}
+
+.foottest {
+  color: var(--primary);
+  font-size: 5rem;
 }
