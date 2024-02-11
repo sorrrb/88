@@ -833,6 +833,10 @@
   font-size: 3rem;
 }
 
+.headtest {
+  color: var(--primary);
+}
+
 .foottest {
   color: var(--primary);
   font-size: 5rem;
